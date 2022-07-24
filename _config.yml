@@ -1,0 +1,24 @@
+# site
+title: Äggie Lee Pak Yee
+url: "itchyeggie.com"
+baseurl: ""
+favicon: "/assets/images/ico.png"
+g_analytics: UA-12345678-1
+
+# bio
+header: Äggie Lee Pak Yee
+desc: >
+      李 柏 誼 <br>
+      [Lei5 Paak3 Ji6]
+
+# posts
+prev-next: true
+
+# build settings
+markdown: kramdown
+# theme: louie
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+permalink: /:title
