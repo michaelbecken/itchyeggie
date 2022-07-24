@@ -1,5 +1,6 @@
 # site
 title: Äggie Lee Pak Yee
+baseurl: "/itchyeggie"
 url: "https://michaelbecken.github.io"
 favicon: "/assets/images/ico.png"
 g_analytics: UA-12345678-1
