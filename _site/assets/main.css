@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Inconsolata:400,700");
+@import url("https://fonts.googleapis.com/css?family=Inconsolata:400,700,900");
 * {
   box-sizing: border-box; }
 
@@ -79,8 +79,8 @@ body {
   position: absolute;
   max-width: 500px;
   max-height: 500px;
-  top: 50px;
-  left: 211px;
+  top: -13px;
+  left: 312px;
   z-index: -1;
   opacity: 0;
   transition: opacity 500ms; }
@@ -134,17 +134,17 @@ body {
     display: block;
     opacity: 0.7; }
   .row__post:nth-child(2n) .row__img {
-    top: -40px;
-    left: 325px; }
+    top: -22px;
+    left: 182px; }
   .row__post:nth-child(3n) .row__img {
-    top: 60px;
-    left: 18px; }
+    top: -120px;
+    left: 274px; }
   .row__post:nth-child(4n) .row__img {
-    top: -33px;
-    left: 477px; }
+    top: 119px;
+    left: 59px; }
   .row__post:nth-child(5n) .row__img {
-    top: -75px;
-    left: 444px; } }
+    top: -137px;
+    left: 338px; } }
 @media screen and (min-width: 600px) {
   .row__cols,
   .row__post {
