@@ -10,6 +10,8 @@ Visual researcher: Äggie Lee Pak Yee
 
 <br>
 
+<img src="./assets/images/commissioned/commissioned022.gif" alt="Book Reveals Demo Gif" width="450px"/>
+
 FLOW, upcoming animated short directed by Helen Unt, 2021 (in-progress), Estonia  
 Co-artist: Helen Unt, Francesco Rosso, Äggie Lee Pak Yee, Helen Woolston
 
@@ -75,6 +77,8 @@ Visual/ animation artists: Äggie Lee Pak Yee & Heta Jaalinoja
 <br>
 
 <img src="./assets/images/commissioned/commissioned014.gif" alt="herstoria demo gif" width="450"/>
+<br>
+
 <img src="./assets/images/commissioned/commissioned015.jpg" alt="herstoria demo gif" width="450"/>
 
 NO40 A MIDSUMMER NIGHT’S DREAM, NO99 Theatre, 2016, Estonia, Shakespeare/Mendelssohn/Semper/Ojasoo/Elts  
@@ -92,7 +96,7 @@ Pixilation: Äggie Lee Pak Yee
 
 <br>
 
-<img src="./assets/images/commissioned/commissioned017.jpg" alt="childrens work during workshop" width="600px"/>
+<img src="./assets/images/commissioned/commissioned017.jpg" alt="childrens work during workshop" width="450px"/>
 
 CHILDREN ANIMATION 12 WEEKS WORKSHOP, 2016  
 Workshops included: basic understanding of animation principal, drawing, cut-out, clay, sand animation practice, puppet-making and mask-making. (Click [here](https://pushpushkin.tumblr.com) to see children’s work!)
