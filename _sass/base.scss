@@ -72,6 +72,11 @@ body {
   margin: 0 25px;
 }
 
+.copyright {
+  margin-top: 50px;
+  font-size: 11px;
+}
+
 // media queries
 @include media-query($on-palm) {
   body {
