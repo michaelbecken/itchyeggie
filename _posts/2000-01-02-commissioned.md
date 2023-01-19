@@ -3,16 +3,17 @@ layout: post
 title: commissioned
 ---
 
-[Director - Loodusvaatluste Maraton promo](https://www.itchyeggie.com/loodusvaatluste).  
-[Motion Graphic Designer - National Geographic](https://www.itchyeggie.com/geographic).  
-[Animator - A Midsummer Night's Dream by Theatre No99](https://www.itchyeggie.com/midsummer).  
-[Pixilation - Frank by Red Hung](https://www.itchyeggie.com/frank).  
-[Animator - Eya](https://www.itchyeggie.com/eya).  
-[Assistant (Intern) - Elo by Alexandra Ramires](https://www.itchyeggie.com/elo).  
-[Co-Director - Underwater Music Video](https://www.itchyeggie.com/underwater).  
-[Artist - Flip Book Design](https://www.itchyeggie.com/reveals).  
-[Director - Animated Fat Kids Studio Logo](https://www.itchyeggie.com/fatkids).  
-[Artist - 48 Hours Animation Challenge](https://www.itchyeggie.com/48hours).  
-[Drawing Animator - Flow by Helen Unt](https://www.itchyeggie.com/flow).  
-[Visual Researcher - Nun or Never by Heta Jäälinoja](https://www.itchyeggie.com/nun).  
-[Animator - Arte TV](https://www.itchyeggie.com/poem).
+↳ [Flow, animated film / Co-Artist](./flow)  
+↳ [Nun or Never, animated film / Visual Researcher](./nun)  
+↳ [Turtle Papa, animated film / Colorist](./turtle)  
+↳ [Loodusvaatluste Maraton, promotional video / Director](./loodusvaatluste)  
+↳ [A line, A plane and A kid, animated logo / Director](./fatkids)  
+↳ [When the Clock Snorkels, music clip / Co-Director](./snorkel)  
+↳ [Doris Kareva’s poem, animated clip / Animator](./kareva)  
+↳ [Book Reveals, flipbook / Artist](./reveals)  
+↳ [Secret Room, 48 hours walk cycle / Participating Artist](./48hours)  
+↳ [Elo, animated film / Intern Assistant](./elo)  
+↳ [A Midsummer Night’s Dream, theatre play / Animator](./midsummer)  
+↳ [Eya, clip for painting workshop / Animator](./eya)  
+↳ [Frank, animated film / Animator](./frank)  
+↳ [NatGeo Channel, promotional clips / Motion Graphic Designer](./geographic)
