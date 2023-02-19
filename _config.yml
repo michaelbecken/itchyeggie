@@ -1,6 +1,6 @@
 # site
 title: Äggie Lee Pak Yee
-url: "http://www.itchyeggie.com"
+url: "https://www.itchyeggie.com"
 
 # bio
 header: Äggie Lee Pak Yee
@@ -19,3 +19,6 @@ exclude:
   - Gemfile.lock
 
 permalink: /:title
+
+plugins:
+  - jekyll-seo-tag
